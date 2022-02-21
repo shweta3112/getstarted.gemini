@@ -1,0 +1,2 @@
+# getstarted.gemini
+hello world
